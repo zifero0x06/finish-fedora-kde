@@ -8,11 +8,11 @@ removeappfile=$1
 while IFS= read -r app
 do
   sudo dnf remove "$app" -y
-done < "$app_file"
+done < "$removeappfile"
 
 installappfile=$2
 
 while IFS= read -r app
 do
   sudo dnf install "$app" -y
-done < "$app_file"
+done < "$installappfile"

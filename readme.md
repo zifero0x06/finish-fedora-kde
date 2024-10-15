@@ -7,5 +7,5 @@ Enfin, ce script permettra à terme d'installer VirtualBox en palliant certains 
 
 Mode d'emploi :
 1. télécharger les fichiers dans un dossier unique
-2. rendre le script exécutable en utilisant votre émulateur de terminal préféré : ```bash chmod +x finfedkde.sh```
-3. exécuter le script : ```bash ./finfedkde.sh installapplist.txt```
+2. rendre le script exécutable en utilisant votre émulateur de terminal préféré : ```chmod +x finfedkde.sh```
+3. exécuter le script : ```./finfedkde.sh installapplist.txt```

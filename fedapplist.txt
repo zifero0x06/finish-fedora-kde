@@ -1,0 +1,15 @@
+openvpn
+filezilla
+openrgb
+vlc
+bash-completion
+curl
+neofetch
+timeshift
+gcc-c++
+gcc
+python3
+keepassxc
+yakuake
+konversation
+gparted

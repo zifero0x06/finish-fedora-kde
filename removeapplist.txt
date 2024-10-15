@@ -1,0 +1,7 @@
+libreoffice*
+akregator
+kdeconnect
+kmahjongg
+kmines
+kpat
+neochat

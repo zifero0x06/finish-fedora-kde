@@ -13,3 +13,4 @@ keepassxc
 yakuake
 konversation
 gparted
+markdownpart

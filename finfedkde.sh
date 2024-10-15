@@ -10,7 +10,7 @@ do
   sudo dnf remove "$app" -y
 done < "$app_file"
 
-installappfile=$1
+installappfile=$2
 
 while IFS= read -r app
 do

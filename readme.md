@@ -3,7 +3,7 @@
 Après installation de Fedora KDE, ce script permet de compléter l'OS avec des applications essentielles.
 Le projet est également d'en supprimer certaines automatiquement.
 
-Enfin, ce script permettra à terme d'installer VirtualBox en palliant certains problémes inhérents à Fedora ainsi que Brave Browser et Discord en ajoutant les dépôts associés.
+Enfin, ce script permet d'activer les dépôts RPM Fusion, d'installer VirtualBox 7.0 ainsi que Brave Browser et Discord en ajoutant les dépôts associés.
 
 Mode d'emploi :
 1. télécharger les fichiers dans un dossier unique

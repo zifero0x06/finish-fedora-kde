@@ -5,12 +5,14 @@ vlc
 bash-completion
 curl
 neofetch
-timeshift
 gcc-c++
 gcc
 python3
+python3-pipx
 keepassxc
-yakuake
 konversation
 gparted
 markdownpart
+cool-retro-term
+git
+cutter

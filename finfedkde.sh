@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo dnf autoremove -y
-sudo dnf update -y
+sudo dnf upgrade -y
 
 removeappfile=$1
 
@@ -16,3 +16,8 @@ while IFS= read -r app
 do
   sudo dnf install "$app" -y
 done < "$installappfile"
+
+wget https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm
+sudo dnf install ./onlyoffice-desktopeditors.x86_64.rpm -y
+
+
